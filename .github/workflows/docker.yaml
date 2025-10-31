@@ -20,7 +20,7 @@ jobs:
         id: metadata
         uses: docker/metadata-action@v4
         with:
-          images: ghcr.io/fealess743/paymenter
+          images: ghcr.io/fearless743/paymenter
           flavor: |
             latest=false
           tags: |
