@@ -106,6 +106,7 @@ return [
         'no' => 'Norwegian',
         'pt' => 'Portuguese',
         'sr' => 'Serbian',
+        'zh-CN' => '简体中文',
     ],
 
     'rtl_locales' => [
